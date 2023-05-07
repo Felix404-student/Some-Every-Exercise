@@ -1,5 +1,6 @@
 # Some-Every-Exercise
 some / every practice lesson for UMass/Springboard bootcamp
+
 Javascript, HTML
 
 <div class="section" id="hasoddnumber">
